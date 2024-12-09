@@ -1,0 +1,10 @@
+{
+  "extends": "@replace-app-name/project-config/tsconfig/reactjs.json",
+  "include": ["**/*.ts", "**/*.tsx"],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  }
+}
