@@ -3958,7 +3958,7 @@ snapshots:
   is-weakset@2.0.3:
     dependencies:
       call-bind: 1.0.8
-      get-intrinsic: 1.2.7
+      get-intrinsic: 1.2.4
 
   is-windows@1.0.2: {}
 
