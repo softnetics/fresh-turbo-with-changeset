@@ -20,7 +20,7 @@
   "devDependencies": {
     "@replace-app-name/project-configs": "workspace:*",
     "style-dictionary": "^4.3.2",
-    "tailwindcss": "^4.0.0",
+    "tailwindcss": "^4.0.1",
     "tsx": "^4.19.2"
   },
   "dependencies": {
