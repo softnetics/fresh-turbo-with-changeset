@@ -88,7 +88,7 @@ importers:
         version: 3.0.1
       tailwindcss-animate:
         specifier: ^1.0.7
-        version: 1.0.7(tailwindcss@4.0.2)
+        version: 1.0.7(tailwindcss@4.0.3)
     devDependencies:
       '@replace-app-name/project-configs':
         specifier: workspace:*
@@ -97,8 +97,8 @@ importers:
         specifier: ^4.3.2
         version: 4.3.2
       tailwindcss:
-        specifier: ^4.0.2
-        version: 4.0.2
+        specifier: ^4.0.3
+        version: 4.0.3
       tsx:
         specifier: ^4.19.2
         version: 4.19.2
@@ -1790,8 +1790,8 @@ packages:
     peerDependencies:
       tailwindcss: '>=3.0.0 || insiders'
 
-  tailwindcss@4.0.2:
-    resolution: {integrity: sha512-cjWQjZEbzQNqH4IiSjRcYg96zjlu+rjzTFkqTc/fN3FNnIU4CoNlQvwCsIomwG/2EPWYT9ysFL1QF6Av3fZeNg==}
+  tailwindcss@4.0.3:
+    resolution: {integrity: sha512-ImmZF0Lon5RrQpsEAKGxRvHwCvMgSC4XVlFRqmbzTEDb/3wvin9zfEZrMwgsa3yqBbPqahYcVI6lulM2S7IZAA==}
 
   term-size@2.2.1:
     resolution: {integrity: sha512-wK0Ri4fOGjv/XPy8SBHZChl8CM7uMc5VML7SqiQ0zG7+J5Vr+RMQDoHa2CNT6KHUnTGIXH34UDMkPzAUyapBZg==}
@@ -3937,11 +3937,11 @@ snapshots:
 
   tailwind-merge@3.0.1: {}
 
-  tailwindcss-animate@1.0.7(tailwindcss@4.0.2):
+  tailwindcss-animate@1.0.7(tailwindcss@4.0.3):
     dependencies:
-      tailwindcss: 4.0.2
+      tailwindcss: 4.0.3
 
-  tailwindcss@4.0.2: {}
+  tailwindcss@4.0.3: {}
 
   term-size@2.2.1: {}
 
